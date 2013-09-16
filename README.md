@@ -1,4 +1,4 @@
-onepadc
+onetimepadc
 =======
 
 Random one-time-pad generator for c
