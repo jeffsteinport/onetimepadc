@@ -6,6 +6,7 @@ Random one-time-pad generator for c
 Outputs something like this:
 
 
+```
 Pad # 1808040685
 
 1:      @cd@g+[nz$*+>g84>pn7<[cb
@@ -47,3 +48,4 @@ Pad # 1808040685
 19:     @]zmsfy>g<rf8[cbdzpb@?x5
 
 20:     >y>w8ykssr38e76y55nx>#]c
+```
