@@ -14,8 +14,7 @@ void rand_str()
       dst[i] = text[rand() % (sizeof text - 1)];
    }
    dst[i] = '\0';
-   printf(dst);
-   printf("\n");
+   printf("%s\n",dst);
 }
 
 int main (void)
