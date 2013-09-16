@@ -5,6 +5,7 @@ Random one-time-pad generator for c
 
 Outputs something like this:
 
+Generate a one-time pad for use with whatever encryption you are using. For super-high security, generate on an air-gap computer and hand transcribe each line onto paper.
 
 ```
 Pad # 1808040685
