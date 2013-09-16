@@ -3,9 +3,9 @@ onetimepadc
 
 Random one-time-pad generator for c
 
-Outputs something like this:
-
 Generate a one-time pad for use with whatever encryption you are using. Each key is 24 characters long and 20 keys are generated. Characters that are easily confused when written (e.g., i, l, 1, o, 0) are not used to avoid transcription error. To avoid further confusion, only lower-case letters are used. For super-high security, generate on an air-gap computer and hand transcribe each line onto paper. 
+
+Outputs something like this:
 
 ```
 Pad # 1808040685
